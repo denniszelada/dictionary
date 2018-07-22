@@ -1,0 +1,2 @@
+defmodule Dictionary do
+end
